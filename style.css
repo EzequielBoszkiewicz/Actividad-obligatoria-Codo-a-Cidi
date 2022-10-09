@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    padding-right: 1.5rem;
+}
+.cartas{
+    display: flex;
+}
+.card{
+    width: 33%;
+    margin-bottom: 1rem;
+}
+img{
+    height: 60%;
+}
